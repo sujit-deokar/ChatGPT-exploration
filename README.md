@@ -1,5 +1,5 @@
 # ChatGPT-exploration
-In this repo, I will be exploring and codes that can help org/individual to work with chatGPT for larger benifit. This depends on **Azure Open AI** access. Hence, I will request to opt for free credential to leverage if do not have access. 
+In this repo, I will be exploring scenarios and sharing codes that can help org/individual to work with chatGPT for larger benifit. This depends on **Azure Open AI** access. Hence, I will request to opt for free credential to leverage if do not have access. 
 
 ## Topics:
 
